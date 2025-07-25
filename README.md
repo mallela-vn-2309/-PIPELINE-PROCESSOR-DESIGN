@@ -1,10 +1,10 @@
 # -PIPELINE-PROCESSOR-DESIGN
-COMPANY: COOTECH IT SOLUTIONS
-NAME: MALLELA VEERANIKHITHA
-INTERN ID: CT08DF2955
-DOMAIN: VLSI
-DURATION: 2 MONTHS
-MENTOR: NEELA SANTOSH
+# COMPANY: COOTECH IT SOLUTIONS
+# NAME: MALLELA VEERANIKHITHA
+# INTERN ID: CT08DF2955
+# DOMAIN: VLSI
+# DURATION: 2 MONTHS
+# MENTOR: NEELA SANTOSH
 
 📌 Objective
 The primary goal of this task was to simulate a 4-stage pipelined processor that performs basic operations like increment (INC), decrement (DEC), shift left (SHL), and shift right (SHR) on 4-bit operands. This project aims to strengthen the understanding of pipeline architecture and how instructions move through different processing stages in a typical CPU. The project also involved writing a Verilog RTL model and testbench, running simulations, and observing timing behavior using ModelSim.
