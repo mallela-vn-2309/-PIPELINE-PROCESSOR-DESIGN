@@ -76,3 +76,6 @@ Waveform Viewer: Visual confirmation of pipeline delays and result accuracy
 ✅ Conclusion
 This project effectively demonstrated a basic pipelined processor design. It introduced core concepts such as instruction staging, operation decoding, and execution with proper timing. By analyzing the simulation output and waveform, I gained hands-on experience with pipelining and better understood how processors achieve instruction-level parallelism. This task laid a solid foundation for future complex designs like multi-cycle datapaths, branching logic, and instruction memory integration.
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/85730bf2-1b06-4239-b59f-564a4e5140a6" />
